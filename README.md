@@ -15,7 +15,6 @@ For this software project, the following tasks have been performed:
 - Terraform
 - Terraform cloud
 - Google cloud platform
-- AppDynamics dashboard
 
 
 ## Installation
