@@ -32,7 +32,6 @@ Furthermore, an application can be deployed on top of a Google Kubernetes Engine
 
 Using version control such as GitHub and Terraform Cloud, multiple people could collaborate at the same time. Terraform Cloud integrates with GitHub, enabling Terraform to run automatically when changes are committed to the specified GitHub branch. Another benefit of using Terraform Cloud is that you can add values manually in a workspace. This is especially desirable for sensitive data, where only those with access to that workspace can access them. 
 
-Finally, you can check in the AppDynamics UI whether the cluster has been successfully deployed. 
 
 ## Usage
 
